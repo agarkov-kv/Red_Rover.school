@@ -10,5 +10,6 @@ public class TaskTwoSubTaskOne {
         System.out.println(a * b);
         System.out.println(a % 2);
         System.out.println(b % 2);
+
     }
 }
