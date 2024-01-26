@@ -1,4 +1,4 @@
-public class Task2 {
+public class TaskOneSubTaskTwo {
     public static void main(String[] args) {
         System.out.println("""
                 ____888888______________________________
