@@ -4,7 +4,7 @@ public class TaskTwoSubTaskOne {
         int b = 6;
         System.out.println(a - b);
         System.out.println(a + b);
-        System.out.println(a / b);
+        System.out.println(1.0 * a / b);
         System.out.println(a % b);
         System.out.println(a * b);
         System.out.println(a * b);
